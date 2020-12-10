@@ -1,7 +1,7 @@
 # inefficiency-and-a-calculator
 Creating a programming language in order to run a calculator
 
-# Be careful running this!
+## Be careful running this!
 It will create a 12 gigabyte script in the directory in which this is run.
 
 ### Why I created a new language for this:
