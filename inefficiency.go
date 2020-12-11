@@ -85,7 +85,7 @@ func (r *runtime) runLine(line string) string {
 }
 
 func main() {
-	//writeCode()
+	writeCode()
 	filename := os.Args[1]
 
 	program, err := os.Open(filename)
